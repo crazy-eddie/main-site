@@ -1,0 +1,6 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/hivickylai/hugo-theme-introduction.git
+[submodule "public"]
+	path = public
+	url = git@github.com:crazy-eddie/crazy-eddie.github.io.git
